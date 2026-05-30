@@ -14,7 +14,7 @@
 | Duration             | Approximately 50 Hours                                        |
 | Days                 | Saturday & Sunday                                             |
 | Timing               | 08:00 PM – 10:00 PM (IST)                                     |
-| Language             | Hindi / Urdu                                                  |
+| Language             | Hindi / English                                               |
 | Platform             | Zoom Meeting                                                  |
 | Trainer Display Name | Azure DevOps Trainer TG                                       |
 | Total Sessions       | 25 Sessions                                                   |
