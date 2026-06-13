@@ -568,6 +568,400 @@ Benefits:
 * Reliable Releases
 * Reduced Risk
 
+# Scrum vs Agile vs Waterfall – Points to Remember
+
+## Quick Interview Answer
+
+| Agile                     | Scrum                     | Waterfall                 |
+| ------------------------- | ------------------------- | ------------------------- |
+| Methodology/Mindset       | Framework under Agile     | Traditional Project Model |
+| Flexible                  | Iterative & Incremental   | Sequential                |
+| Continuous Feedback       | Sprint-based Feedback     | Feedback at End           |
+| Adapts to Change          | Embraces Change           | Change is Costly          |
+| Customer Involvement High | Customer Involvement High | Customer Involvement Low  |
+| Multiple Agile Frameworks | One Agile Framework       | Single Linear Approach    |
+
+---
+
+## Relationship
+
+```text
+Project Management Approaches
+│
+├── Waterfall
+│
+└── Agile
+      │
+      ├── Scrum
+      ├── Kanban
+      ├── XP
+      └── SAFe
+```
+
+**Remember:**
+
+* Agile = Philosophy/Mindset
+* Scrum = Agile Framework
+* Waterfall = Traditional Model
+
+---
+
+# 1. Agile
+
+### Definition
+
+Agile is a project management and software development approach focused on:
+
+* Continuous delivery
+* Customer collaboration
+* Frequent feedback
+* Adaptability
+
+### Example
+
+Building an E-commerce Website
+
+Instead of delivering after 6 months:
+
+Month 1:
+
+* Login Module
+
+Month 2:
+
+* Product Catalog
+
+Month 3:
+
+* Cart
+
+Month 4:
+
+* Payment Gateway
+
+Customer can review after every iteration.
+
+### Agile Principles
+
+* Working software over documentation
+* Customer collaboration over contracts
+* Responding to change over following a plan
+* Individuals and interactions over processes
+
+### Points to Remember
+
+✅ Flexible
+
+✅ Fast feedback
+
+✅ Customer involved
+
+✅ Frequent releases
+
+✅ Suitable for dynamic projects
+
+---
+
+# 2. Scrum
+
+### Definition
+
+Scrum is the most popular Agile framework.
+
+It divides work into short cycles called **Sprints**.
+
+Sprint Duration:
+
+```text
+1-4 Weeks
+```
+
+Most common:
+
+```text
+2 Weeks
+```
+
+---
+
+## Scrum Roles
+
+### Product Owner
+
+Responsible for:
+
+* Product Vision
+* Product Backlog
+* Prioritization
+
+### Scrum Master
+
+Responsible for:
+
+* Removing blockers
+* Facilitating meetings
+* Following Scrum practices
+
+### Development Team
+
+Responsible for:
+
+* Designing
+* Coding
+* Testing
+* Delivering
+
+---
+
+## Scrum Events
+
+### Sprint Planning
+
+What to build?
+
+### Daily Standup
+
+15-minute meeting
+
+Questions:
+
+```text
+What did I do yesterday?
+What will I do today?
+Any blockers?
+```
+
+### Sprint Review
+
+Demo to stakeholders.
+
+### Sprint Retrospective
+
+What went well?
+What can improve?
+
+---
+
+## Scrum Artifacts
+
+### Product Backlog
+
+Complete requirement list.
+
+### Sprint Backlog
+
+Current sprint tasks.
+
+### Increment
+
+Working product after sprint.
+
+---
+
+### Example
+
+Mobile Banking App
+
+Sprint 1:
+
+* Login
+
+Sprint 2:
+
+* Account Summary
+
+Sprint 3:
+
+* Fund Transfer
+
+Sprint 4:
+
+* Bill Payment
+
+Each sprint delivers usable functionality.
+
+---
+
+### Points to Remember
+
+✅ Sprint Based
+
+✅ Time Boxed
+
+✅ Daily Standups
+
+✅ Product Owner
+
+✅ Scrum Master
+
+✅ Product Backlog
+
+✅ Sprint Backlog
+
+---
+
+# 3. Waterfall
+
+### Definition
+
+Traditional project management model.
+
+Work flows in a sequence.
+
+```text
+Requirement
+    ↓
+Design
+    ↓
+Development
+    ↓
+Testing
+    ↓
+Deployment
+    ↓
+Maintenance
+```
+
+Next phase starts only after previous phase completes.
+
+---
+
+### Example
+
+Building a Bridge
+
+Requirements are fixed.
+
+```text
+Design Complete
+↓
+Construction
+↓
+Testing
+↓
+Opening
+```
+
+Changes during construction are expensive.
+
+---
+
+### Points to Remember
+
+✅ Sequential
+
+✅ Heavy Documentation
+
+✅ Fixed Requirements
+
+✅ Less Customer Interaction
+
+✅ Changes are Difficult
+
+✅ Suitable for Predictable Projects
+
+---
+
+# Real-Life Example
+
+## Waterfall
+
+Building a House
+
+```text
+Plan
+↓
+Design
+↓
+Construction
+↓
+Inspection
+↓
+Handover
+```
+
+Cannot easily change room locations midway.
+
+---
+
+## Agile
+
+Building a Mobile App
+
+```text
+Version 1 → Login
+Version 2 → Payments
+Version 3 → Notifications
+Version 4 → Reports
+```
+
+Users provide feedback after every release.
+
+---
+
+## Scrum
+
+Developing a Food Delivery App
+
+Sprint 1:
+
+* Login
+
+Sprint 2:
+
+* Restaurant Listing
+
+Sprint 3:
+
+* Order Placement
+
+Sprint 4:
+
+* Payment
+
+Sprint 5:
+
+* Tracking
+
+Delivered every 2 weeks.
+
+---
+
+# Interview One-Liner
+
+### Agile
+
+> Agile is a mindset that focuses on iterative development, collaboration, and responding to change.
+
+### Scrum
+
+> Scrum is an Agile framework that delivers work in short, time-boxed sprints using roles like Product Owner, Scrum Master, and Development Team.
+
+### Waterfall
+
+> Waterfall is a linear project management approach where each phase is completed before the next phase begins.
+
+---
+
+# Easy Memory Trick
+
+```text
+Agile    = Philosophy
+Scrum    = Framework inside Agile
+Waterfall = Traditional Sequential Model
+```
+
+**Formula for exams/interviews:**
+
+```text
+Agile > Scrum
+Waterfall ≠ Agile
+
+Agile = Flexible
+Scrum = Agile + Sprints
+Waterfall = Fixed Plan
+```
+
 ---
 
 ## DevOps Toolchain
