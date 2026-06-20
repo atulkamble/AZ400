@@ -1,4 +1,4 @@
-# Module 01 – Introduction to AZ-400 (Microsoft Azure DevOps Engineer Expert)
+# Module 01 – Introduction to AZ-400 
 
 ---
 
