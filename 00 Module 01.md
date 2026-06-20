@@ -280,8 +280,7 @@ Supports:
 Examples:
 
 ```text
-atul@hotmail.com
-atul@gmail.com
+atul_kamble@hotmail.com
 ```
 
 ---
